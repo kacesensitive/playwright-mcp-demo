@@ -34,7 +34,7 @@ The easiest way to get started is to run the setup script:
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/playwright-mcp-demo.git
+git clone git@github.com:kacesensitive/playwright-mcp-demo.git
 cd playwright-mcp-demo
 
 # Run the setup script to install dependencies and Playwright browsers
